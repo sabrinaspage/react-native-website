@@ -20,7 +20,7 @@ you must migrate your React Native app to the New Architecture.
 
 The version alignment between React and React Native relies on two syncronization points:
 
-1. The versions in the `package.json` of the new app template. For example [for React Native 0.68.1](https://github.com/facebook/react-native/blob/b5f1b26a8ff4014e45bbb95c5956ba2c2cf286db/template/package.json#L12-L15) the versions are aligned as follows:
+1. The versions in the `package.json` of the new app template. For example [for React Native 0.68.1](https://github.com/facebook/react-native/blob/0.68-stable/template/package.json#L12-L15) the versions are aligned as follows:
 
 ```json
   "dependencies": {
